@@ -27,7 +27,7 @@ public class Methods {
     System.out.println("Hello " + name); // Hello + the text you add in ("")
   }
 
-  // this method simply says "Hello Workd!"
+  // this method simply says "Hello World!"
   static void sayHelloWorld() { 
     System.out.println("Hello World!"); // Hello World!
   }
